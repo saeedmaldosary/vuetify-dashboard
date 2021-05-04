@@ -6,7 +6,9 @@
 
 - Multi sorting
 - Display selected row (snackbar)
+```
 ![image](https://user-images.githubusercontent.com/52779920/117003310-5ea48900-aced-11eb-9c42-6ad95de0498f.png)
+```
 
 ## Project setup
 ```
